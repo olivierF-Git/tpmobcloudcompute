@@ -7,3 +7,13 @@ target
 /.project
 /.settings
 /RUNNING_PID
+
+bin/
+data/
+db/
+dist/
+logs/
+test-result/
+lib/
+tmp/
+modules/

@@ -1,5 +1,5 @@
 name := """tpMobCloudCompute"""
-organization := "La Rochelle Université"
+organization := "com.olivier"
 
 version := "1.0-SNAPSHOT"
 
